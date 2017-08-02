@@ -8,7 +8,7 @@ import java.util.Timer;
 import javax.swing.*;
 import javax.swing.plaf.basic.BasicInternalFrameTitlePane.*;
 
-public class Ui extends JFrame implements ActionListener{ //////////////////// aa
+public class Ui extends JFrame implements ActionListener{ //////////////////// test
 
 	Product[] pd = new Product[6];
 	Money mn = new Money();
